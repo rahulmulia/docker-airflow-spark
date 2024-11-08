@@ -1,0 +1,6 @@
+python-decouple
+apache-airflow-providers-apache-spark
+apache-airflow-providers-celery
+requests
+pandas
+minio
